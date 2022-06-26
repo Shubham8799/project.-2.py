@@ -20,7 +20,7 @@ Print (new_age)
 Print ( "Is it true/false") 
 True = input("I knew it") 
 False = input(" I am solly  ") 
-True or fals = input(" Enter your answer true or false ") 
+True or false = input(" Enter your answer true or false ") 
 Print ("answer") 
 Input (answer) 
 
