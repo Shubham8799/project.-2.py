@@ -18,9 +18,9 @@ New_age = int(old_age) + 2
 Print (" So ") + name (" After two years your age will be this ") 
 Print (new_age) 
 Print ( "Is it true/false") 
-True = input (" I knew it ") 
-False = input (" I am solly  ") 
-True or fals = input (" Enter your answer true or false ") 
+True = input("I knew it") 
+False = input(" I am solly  ") 
+True or fals = input(" Enter your answer true or false ") 
 Print ("answer") 
 Input (answer) 
 
